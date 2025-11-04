@@ -1,6 +1,7 @@
 # Frontend# TAXIA - Transport Intelligent en RDC
 
-![TAXIA Logo](./images/logo.png)
+<img width="1823" height="935" alt="image" src="https://github.com/user-attachments/assets/2fcd7920-9129-4e60-93ee-9ab878834858" />
+
 
 ## 📖 Description
 
@@ -36,68 +37,6 @@ TAXIA est composé de trois interfaces principales :
 - Gestion des paiements et versements
 - Statistiques et rapports détaillés
 
-## 🚀 Technologies Utilisées
-
-- **Frontend :** React 18 avec Vite
-- **Styling :** TailwindCSS (design noir/blanc minimaliste)
-- **Mode :** Clair et Sombre (inversion totale des couleurs)
-- **Responsive :** Optimisé pour smartphones bas et moyens de gamme
-
-## 📦 Installation
-
-### Prérequis
-
-- Node.js (version 16 ou supérieure)
-- npm ou yarn
-
-### Étapes d'installation
-
-1. **Cloner le repository**
-```bash
-git clone <repository-url>
-cd TAXIA
-```
-
-2. **Installer les dépendances**
-```bash
-npm install
-```
-
-3. **Lancer le serveur de développement**
-```bash
-npm run dev
-```
-
-4. **Accéder à l'application**
-
-Ouvrez votre navigateur et allez sur `http://localhost:5173`
-
-## 🛠️ Scripts Disponibles
-
-- `npm run dev` - Lance le serveur de développement
-- `npm run build` - Compile l'application pour la production
-- `npm run preview` - Prévisualise la version de production
-
-## 🎨 Design System
-
-### Palette de Couleurs
-
-**Mode Clair :**
-- Fond : Blanc (#FFFFFF)
-- Texte : Noir (#000000)
-- Accents : Nuances de gris
-
-**Mode Sombre :**
-- Fond : Noir (#000000)
-- Texte : Blanc (#FFFFFF)
-- Accents : Nuances de gris inversées
-
-### Principes de Design
-
-- **Minimalisme :** Interface épurée, focus sur l'essentiel
-- **Contraste :** Noir et blanc uniquement pour une lisibilité maximale
-- **Performance :** Optimisé pour les appareils bas de gamme
-- **Accessibilité :** Navigation simple et intuitive
 
 ## 🧠 Intelligence Artificielle
 
@@ -150,44 +89,13 @@ L'IA de TAXIA offre plusieurs fonctionnalités clés :
   - iOS (version 12+)
   - Appareils bas et moyens de gamme
 
-## 🗺️ Roadmap
+## 🚀 Technologies Utilisées
 
-### Phase 1 : MVP (En cours)
-- [x] Page de présentation
-- [ ] Système d'authentification
-- [ ] Interface client de base
-- [ ] Interface chauffeur de base
-- [ ] Dashboard administration
+- **Frontend :** React 18 avec Vite
+- **backend** : Node.Js
+- **Styling :** TailwindCSS (design noir/blanc minimaliste)
+- **Mode :** Clair et Sombre (inversion totale des couleurs)
+- **Responsive :** Optimisé pour smartphones bas et moyens de gamme
 
-### Phase 2 : Fonctionnalités Avancées
-- [ ] Intégration IA pour calcul d'itinéraire
-- [ ] Système de notifications en temps réel
-- [ ] Géolocalisation et suivi GPS
-- [ ] Système de paiement et versements
 
-### Phase 3 : Optimisation
-- [ ] Amélioration de l'IA
-- [ ] Analytics et statistiques avancées
-- [ ] Support multilingue complet
-- [ ] Optimisation des performances
-
-## 👥 Contribution
-
-Ce projet est actuellement en développement. Les contributions seront bientôt acceptées.
-
-## 📄 Licence
-
-Tous droits réservés © 2025 TAXIA
-
-## 📞 Contact
-
-Pour toute question ou suggestion concernant TAXIA, n'hésitez pas à nous contacter.
-
----
-
-**TAXIA** - *Déplacez-vous plus vite et malin en RDC* 🚖
-- Dev: npm run dev
-- Build: npm run build
-- Preview: npm run preview
-
-Tailwind est preconfigure.
+**TAXIA** - *Déplacez-vous plus vite et malin en RDC* 
