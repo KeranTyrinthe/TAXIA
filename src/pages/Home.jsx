@@ -36,7 +36,7 @@ export function Home({ setCurrentPage }) {
             <div className="relative">
               <div className="rounded-3xl overflow-hidden border border-gray-200/50 dark:border-white/10 shadow-2xl">
                 <img 
-                  src="/images/image_header.jpg" 
+                  src="/images/image_header.webp" 
                   alt="TAXIA Transport" 
                   className="w-full h-auto object-contain"
                 />

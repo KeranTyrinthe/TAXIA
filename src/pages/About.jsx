@@ -21,7 +21,7 @@ export function About({ setCurrentPage }) {
         {/* Image Hero */}
         <div className="mb-12 sm:mb-16 rounded-3xl overflow-hidden border border-gray-200/50 dark:border-white/10 shadow-2xl max-h-[400px] sm:max-h-[500px]">
           <img 
-            src="/images/mokup_taxia.png" 
+            src="/images/mokup_taxia.webp" 
             alt="TAXIA Transport" 
             className="w-full h-full object-cover"
           />
@@ -106,7 +106,7 @@ export function About({ setCurrentPage }) {
             </div>
             <div className="order-1 lg:order-2 rounded-3xl overflow-hidden border border-gray-200/50 dark:border-white/10 shadow-2xl">
               <img 
-                src="/images/taxia.png" 
+                src="/images/taxia.webp" 
                 alt="Vision TAXIA" 
                 className="w-full h-auto object-cover"
               />
@@ -117,7 +117,7 @@ export function About({ setCurrentPage }) {
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div className="rounded-3xl overflow-hidden border border-gray-200/50 dark:border-white/10 shadow-2xl">
               <img 
-                src="/images/image_header.jpg" 
+                src="/images/image_header.webp" 
                 alt="Technologie IA" 
                 className="w-full h-auto object-cover"
               />
@@ -188,7 +188,7 @@ export function About({ setCurrentPage }) {
             </div>
             <div className="order-1 lg:order-2 rounded-3xl overflow-hidden border border-gray-200/50 dark:border-white/10 shadow-2xl">
               <img 
-                src="/images/image_header.jpg" 
+                src="/images/image_header.webp" 
                 alt="Sécurité TAXIA" 
                 className="w-full h-auto object-cover"
               />

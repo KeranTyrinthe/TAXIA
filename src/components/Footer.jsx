@@ -5,7 +5,7 @@ export function Footer({ setCurrentPage }) {
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 sm:gap-8 mb-6 sm:mb-8">
           <div className="col-span-2 sm:col-span-1 mb-4 sm:mb-0">
             <div className="flex items-center gap-3 mb-3 sm:mb-4">
-              <img src="/images/logo.png" alt="TAXIA Logo" className="h-16 sm:h-20 w-auto" />
+              <img src="/images/logo.webp" alt="TAXIA Logo" className="h-16 sm:h-20 w-auto" />
             </div>
             <p className="text-sm text-gray-600 dark:text-gray-400">
               Transport intelligent en République Démocratique du Congo

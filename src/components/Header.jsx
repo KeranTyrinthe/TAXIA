@@ -3,7 +3,7 @@ export function Header({ isDark, setIsDark, setCurrentPage }) {
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-[#0a0a0a]/80 backdrop-blur-xl border-b border-gray-200/50 dark:border-white/10 shadow-sm dark:shadow-white/5">
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 py-2 sm:py-3 flex items-center justify-between">
         <button onClick={() => setCurrentPage('home')} className="flex items-center -my-6 sm:-my-7">
-          <img src="/images/logo.png" alt="TAXIA" className="h-20 sm:h-24 w-auto cursor-pointer" />
+          <img src="/images/logo.webp" alt="TAXIA" className="h-20 sm:h-24 w-auto cursor-pointer" />
         </button>
         <div className="flex items-center gap-3 sm:gap-4">
           <button
